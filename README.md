@@ -30,7 +30,8 @@ After you enter your information you will have the option to save the result int
 ```
 Remember: the file name has to end with .csv
 ```
-
+Below a screenshot with how the program looks in your GitBash:
+![example](./images/example.PNG)
 ---
 
 ## Contributors

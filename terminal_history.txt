@@ -1,0 +1,25 @@
+    1  python "c:/Users/danie/OneDrive/Documents/Python Scripts/Module 2/Starter_Code/Starter_Code/loan_qualifier_app/challenge_2/app.py"
+    2  conda activate dev
+    3  cd 'OneDrive/Documents/Python Scripts/Module 2/Starter_Code/Starter_Code/loan_qualifier_app/challenge_2'
+    4  python "c:/Users/danie/OneDrive/Documents/Python Scripts/Module 2/Starter_Code/Starter_Code/loan_qualifier_app/challenge_2/app.py"
+    5  python "c:/Users/danie/OneDrive/Documents/Python Scripts/Module 2/Starter_Code/Starter_Code/loan_qualifier_app/challenge_2/app.py"
+    6  python "c:/Users/danie/OneDrive/Documents/Python Scripts/Module 2/Starter_Code/Starter_Code/loan_qualifier_app/challenge_2/app.py"
+    7  python "c:/Users/danie/OneDrive/Documents/Python Scripts/Module 2/Starter_Code/Starter_Code/loan_qualifier_app/challenge_2/app.py"
+    8  python "c:/Users/danie/OneDrive/Documents/Python Scripts/Module 2/Starter_Code/Starter_Code/loan_qualifier_app/challenge_2/app.py"
+    9  python "c:/Users/danie/OneDrive/Documents/Python Scripts/Module 2/Starter_Code/Starter_Code/loan_qualifier_app/challenge_2/app.py"
+   10  python "c:/Users/danie/OneDrive/Documents/Python Scripts/Module 2/Starter_Code/Starter_Code/loan_qualifier_app/challenge_2/app.py"
+   11  python "c:/Users/danie/OneDrive/Documents/Python Scripts/Module 2/Starter_Code/Starter_Code/loan_qualifier_app/challenge_2/app.py"
+   12  python "c:/Users/danie/OneDrive/Documents/Python Scripts/Module 2/Starter_Code/Starter_Code/loan_qualifier_app/challenge_2/app.py"
+   13  pip list
+   14  git status
+   15  git add README.md
+   16  git add app.py
+   17  git status
+   18  git commit -m "This commit includes questionary fuctions that ask the user whether they want to save the file and where"
+   19  git push
+   20  git status
+   21  git add README.md
+   22  git add app.py
+   23  git commit -m "Including some comments in the code to make it easier to understand"
+   24  git push
+   25  history 50 > terminal_history.txt
